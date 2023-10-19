@@ -1,3 +1,7 @@
+![image](https://github.com/derikesh/Weather-App-TS/assets/107841452/090a6695-5b77-445b-a775-8b3e05c1178d)![image](https://github.com/derikesh/Weather-App-TS/assets/107841452/a8065148-ee41-49bc-82b8-bf5cc5adb193)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
